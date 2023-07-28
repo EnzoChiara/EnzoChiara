@@ -1,6 +1,6 @@
 ## Olá meu nome é Enzo, Seja bem-vindo!!
 👨‍💻 Atualmente estou estudando o curso da RecodePRO para ser fullstack <br>
-📚 Conhecimento avançado em <b>| JAVASCRIPT | HTML | CSS |</b> e estudando <b>| REACJS | NODEJS |</b> <br>
+📚 Conhecimento avançado em <b>| JAVASCRIPT | HTML | CSS |</b> e estudando <b>| REACJS | NODEJS | JAVA |</b> <br>
 🏭 Não estou trabalhando em nenhuma empresa no momento <br>
 🎨 Sou apaixonado por tecnologias, desenhar e jogos
 
