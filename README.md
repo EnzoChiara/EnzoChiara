@@ -2,22 +2,21 @@
 ## 🚀 Desenvolvedor Fullstack | 💻 Apaixonado por Tecnologia
 
 
-🔍 Resumo Profissional:
+🔍 Resumo Profissional:<br>
+👨‍💻 Desenvolvedor Fullstack com experiência em HTML, CSS, JavaScript, ReactJS, NodeJs, Java, MongoDB e MySQL.<br>
+📚 Formação sólida pela recodePro com intensivo bootcamp de 7 meses em Desenvolvimento Fullstack.<br>
+🌐 Experiência anterior na área administrativa com foco em atendimento, gestão de planilhas e organização eficiente de documentos.<br>
+💡 Habilidades técnicas combinadas com softskills como flexibilidade, criatividade, trabalho em equipe e positividade.<br>
 
-👨‍💻 Desenvolvedor Fullstack com experiência em HTML, CSS, JavaScript, ReactJS, NodeJs, Java, MongoDB e MySQL.##
-📚 Formação sólida pela recodePro com intensivo bootcamp de 7 meses em Desenvolvimento Fullstack.##
-🌐 Experiência anterior na área administrativa com foco em atendimento, gestão de planilhas e organização eficiente de documentos.##
-💡 Habilidades técnicas combinadas com softskills como flexibilidade, criatividade, trabalho em equipe e positividade.##
+🔧 Habilidades Técnicas:<br>
+°Desenvolvimento Web: HTML, CSS, JavaScript, ReactJS, NodeJs, Java.<br>
+°Bancos de Dados: MongoDB, MySQL.<br>
+°Ferramentas: Pacote Office, Photoshop.<br>
 
-🔧 Habilidades Técnicas:##
-°Desenvolvimento Web: HTML, CSS, JavaScript, ReactJS, NodeJs, Java.##
-°Bancos de Dados: MongoDB, MySQL.##
-°Ferramentas: Pacote Office, Photoshop.##
+📚 Cursos e Certificações:<br>
+°Certificado do Programador BR em Desenvolvimento Web - Do Zero ao Primeiro Projeto.<br>
 
-📚 Cursos e Certificações:##
-°Certificado do Programador BR em Desenvolvimento Web - Do Zero ao Primeiro Projeto.##
-
-🌟 Objetivo Profissional:##
+🌟 Objetivo Profissional:<br>
 Busco oportunidades desafiadoras para aplicar minha sólida formação em Desenvolvimento Fullstack, combinando experiência administrativa com habilidades técnicas. Pronto para contribuir em projetos inovadores e colaborar em um ambiente de equipe dinâmico.
 
 
