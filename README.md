@@ -1,8 +1,28 @@
-## Olá meu nome é Enzo, Seja bem-vindo!!
-👨‍💻 Atualmente estou estudando o curso da RecodePRO para ser fullstack <br>
-📚 Conhecimento avançado em <b>| JAVASCRIPT | HTML | CSS |</b> e estudando <b>| REACJS | NODEJS | JAVA |</b> <br>
-🏭 Não estou trabalhando em nenhuma empresa no momento <br>
-🎨 Sou apaixonado por tecnologias, desenhar e jogos
+##  Saudações, Sou Enzo Chiaramonte! 👋
+## 🚀 Desenvolvedor Fullstack | 💻 Apaixonado por Tecnologia
+
+
+🔍 Resumo Profissional:
+
+👨‍💻 Desenvolvedor Fullstack com experiência em HTML, CSS, JavaScript, ReactJS, NodeJs, Java, MongoDB e MySQL.
+📚 Formação sólida pela recodePro com intensivo bootcamp de 7 meses em Desenvolvimento Fullstack.
+🌐 Experiência anterior na área administrativa com foco em atendimento, gestão de planilhas e organização eficiente de documentos.
+💡 Habilidades técnicas combinadas com softskills como flexibilidade, criatividade, trabalho em equipe e positividade.
+
+🔧 Habilidades Técnicas:
+°Desenvolvimento Web: HTML, CSS, JavaScript, ReactJS, NodeJs, Java.
+°Bancos de Dados: MongoDB, MySQL.
+°Ferramentas: Pacote Office, Photoshop.
+
+📚 Cursos e Certificações:
+°Certificado do Programador BR em Desenvolvimento Web - Do Zero ao Primeiro Projeto.
+
+🌟 Objetivo Profissional:
+Busco oportunidades desafiadoras para aplicar minha sólida formação em Desenvolvimento Fullstack, combinando experiência administrativa com habilidades técnicas. Pronto para contribuir em projetos inovadores e colaborar em um ambiente de equipe dinâmico.
+
+
+
+
 
 <div align="center">
   <a href="https://github.com/EnzoChiara">
@@ -17,10 +37,9 @@
  </div>
   
   ##
- 
+  
+ 📬 Contato:
 <div> 
- 	
- 
   <a href = "mailto:enzochiara1@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/enzo-chiaramonte" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
